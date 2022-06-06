@@ -10,7 +10,7 @@ function CallScreen() {
   const localVideoRef = useRef(null);
   const remoteVideoRef = useRef(null);
 
-  const socket = socketio("http://192.168.1.101:9000", {
+  const socket = socketio("http://localhost:9000", {
     autoConnect: false,
   });
 
