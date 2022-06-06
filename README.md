@@ -1,7 +1,10 @@
 # MN final project: WebRTC
 
 ## Environment
- - Flask
+ - flask
+ - flask_socketio
+ - nodejs
+ - gunicorn
 
 ## Instruction to run the code
 please make sure you're at path 'FinalProject_WebRTC/', run 

@@ -2,4 +2,4 @@
 # Environment
 # - flask
 # email: r10525073@g.ntu.edu.tw
-python src/main.py
+python src/server.py
