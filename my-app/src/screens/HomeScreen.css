@@ -1,5 +1,5 @@
 body {
-    background-color: #D1BAA9;
+    background-color: #3a6cb7;
     color: white;
     padding: 40px;
     font-family: Arial;
@@ -52,7 +52,7 @@ form input {
 input[type=submit] {
     padding: 15px 50px;
     width: auto;
-    background: #1abc9c;
+    background: #bc6b1a;
     border: none;
     font-size: 15px;
     color: white;

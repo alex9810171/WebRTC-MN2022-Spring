@@ -29,8 +29,8 @@ function CallScreen() {
       .getUserMedia({
         audio: true,
         video: {
-          height: 350,
-          width: 350,
+          height: 360,
+          width: 640,
         },
       })
       .then((stream) => {
